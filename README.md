@@ -22,7 +22,7 @@ What things you need to install the software and how to install them:
 A step by step series of examples that tell you how to get a development env running:
 
 1. Clone the repository onto your local machine.
-2. Open the Jupyter Notebook file `Breaking_Hcaptcha.ipynb` in your local Jupyter Notebook.
+2. Open the Jupyter Notebook file `Satya_12040580(assignment3).ipynb` in your local Jupyter Notebook.
 3. Install the required Python libraries as mentioned in the prerequisites section.
 4. Run the code cells in the notebook to train and test the model.
 
